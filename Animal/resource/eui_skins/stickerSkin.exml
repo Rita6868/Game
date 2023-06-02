@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="stickerSkin" width="465" height="265" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group width="465" y="0" height="265" x="0">
+		<e:Image source="sticker0_png" y="32" x="11"/>
+		<e:Image source="sticker1_png" y="31" x="130"/>
+		<e:Image source="sticker2_png" y="26" x="250"/>
+		<e:Image source="sticker3_png" y="25" x="369"/>
+		<e:Image source="sticker4_png" y="166" x="10"/>
+		<e:Image source="sticker5_png" y="168" x="131"/>
+		<e:Image source="sticker6_png" y="172" x="251"/>
+		<e:Image source="sticker7_png" y="167" x="371"/>
+	</e:Group>
+	<e:Group id="choose_Group" width="465" y="0" height="265" x="0">
+		<e:Image id="choose0" y="0" x="0" width="105" height="124" source="Alpha_pet_png"/>
+		<e:Image id="choose1" y="0" width="105" height="124" x="120" source="Alpha_pet_png"/>
+		<e:Image id="choose2" y="0" width="105" height="124" x="240" source="Alpha_pet_png"/>
+		<e:Image id="choose3" y="0" width="105" height="124" x="360" source="Alpha_pet_png"/>
+		<e:Image id="choose4" y="140" width="105" height="124" x="0" source="Alpha_pet_png"/>
+		<e:Image id="choose5" y="140" width="105" height="124" x="120" source="Alpha_pet_png"/>
+		<e:Image id="choose6" y="140" width="105" height="124" x="240" source="Alpha_pet_png"/>
+		<e:Image id="choose7" y="140" width="105" height="124" x="360" source="Alpha_pet_png"/>
+		<e:Image id="choose_p2" source="choose_p2_png" x="0" y="0" width="105" height="124" visible="false"/>
+		<e:Image id="choose_p1" source="choose_p1_png" x="0" y="0" width="105" height="124"/>
+	</e:Group>
+</e:Skin>

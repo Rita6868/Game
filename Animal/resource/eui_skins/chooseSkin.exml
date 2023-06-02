@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="chooseSkin" width="600" height="1064" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group id="chooseTxt" height="80" width="260" y="84" horizontalCenter="8"/>
+	<e:Image id="character" x="277" bottom="381" source="Role_0_png"/>
+	<e:Group width="200" y="289" height="405" x="39">
+		<e:Image id="sticker0" source="sticker0_png" y="3" x="2"/>
+		<e:Image id="sticker1" source="sticker1_png" y="108" x="1"/>
+		<e:Image id="sticker2" source="sticker2_png" y="203" x="1"/>
+		<e:Image id="sticker3" source="sticker3_png" y="311" x="0"/>
+		<e:Image id="sticker4" source="sticker4_png" y="0" x="107"/>
+		<e:Image id="sticker5" source="sticker5_png" y="107" x="108"/>
+		<e:Image id="sticker6" source="sticker6_png" y="214" x="107"/>
+		<e:Image id="sticker7" source="sticker7_png" y="313" x="108"/>
+	</e:Group>
+	<e:Group width="200" y="260" id="selection_Group" touchEnabled="false" height="444" x="30">
+		<e:Image id="selection0" source="choose_p1_png" width="105" y="0" touchEnabled="false" height="124" x="0"/>
+		<e:Image id="selection1" width="105" y="105" touchEnabled="false" height="124" x="0" source="Alpha_pet_png"/>
+		<e:Image id="selection2" width="105" y="210" touchEnabled="false" height="124" x="0" source="Alpha_pet_png"/>
+		<e:Image id="selection3" width="105" y="315" touchEnabled="false" height="124" x="0" source="Alpha_pet_png"/>
+		<e:Image id="selection4" width="105" y="0" touchEnabled="false" height="124" x="106" source="Alpha_pet_png"/>
+		<e:Image id="selection5" width="105" y="105" touchEnabled="false" height="124" x="106" source="Alpha_pet_png"/>
+		<e:Image id="selection6" width="105" y="210" touchEnabled="false" height="124" x="105" source="Alpha_pet_png"/>
+		<e:Image id="selection7" width="105" y="315" touchEnabled="false" height="124" x="106" source="Alpha_pet_png"/>
+	</e:Group>
+	<e:Image source="choose_ok_png" y="762" horizontalCenter="0" id="btn_ok" x="10"/>
+</e:Skin>

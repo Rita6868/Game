@@ -1,0 +1,29 @@
+﻿{
+"mc": {
+	"randomR": {
+		"frameRate":24,
+		"labels": [
+		],
+		"frames": [
+			{"res":"randomR0000","x":0,"y":0,"duration":5},
+			{"res":"randomR0001","x":0,"y":0,"duration":5},
+			{"res":"randomR0002","x":0,"y":0,"duration":5},
+			{"res":"randomR0003","x":0,"y":0,"duration":5},
+			{"res":"randomR0004","x":0,"y":0,"duration":5},
+			{"res":"randomR0005","x":0,"y":0,"duration":5},
+			{"res":"randomR0006","x":0,"y":0,"duration":5},
+			{"res":"randomR0007","x":0,"y":0,"duration":5}
+		]
+	}
+},
+"res": {
+	"randomR0000":{"x":0,"y":0,"w":237,"h":315},
+	"randomR0001":{"x":237,"y":0,"w":237,"h":315},
+	"randomR0002":{"x":474,"y":0,"w":237,"h":315},
+	"randomR0003":{"x":711,"y":0,"w":237,"h":315},
+	"randomR0004":{"x":948,"y":0,"w":237,"h":315},
+	"randomR0005":{"x":1185,"y":0,"w":237,"h":315},
+	"randomR0006":{"x":1422,"y":0,"w":237,"h":315},
+	"randomR0007":{"x":1659,"y":0,"w":237,"h":315}
+}
+}

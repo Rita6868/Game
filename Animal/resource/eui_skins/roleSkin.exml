@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="roleSkin" width="237" height="300" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group y="0" id="pet_P2" width="237" height="300" x="0">
+		<e:Image id="mask" source="Role_1_png" y="0" x="0" width="237" height="300"/>
+		<e:Rect width="237" y="0" x="0" height="300"/>
+	</e:Group>
+</e:Skin>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="RipSkin" width="400" height="260" xmlns:e="http://ns.egret.com/eui">
+	<e:Image source="RIP_png" y="103" horizontalCenter="0"/>
+	<e:Image source="RIP_L_png" y="204" x="100"/>
+	<e:Image source="RIP_R_png" y="194" x="247"/>
+</e:Skin>

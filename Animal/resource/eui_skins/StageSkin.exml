@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="StageSkin" width="600" height="1064" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Component id="bgSkin" x="0" y="0" skinName="bgSkin"/>
+	<e:Component id="chooseSkin" x="0" y="0" skinName="chooseSkin"/>
+	<e:Rect id="Black" width="720" y="0" height="1280" x="0" visible="false"/>
+	<e:Component id="waitSkin" x="0" y="0" skinName="waitSkin" visible="false"/>
+	<e:Rect id="baffle" height="1064" width="600" x="0" y="0" fillAlpha="0" touchEnabled="false"/>
+	<e:Component id="thingsSkin" x="0" y="0" skinName="thingsSkin" visible="false"/>
+	<e:Component x="0" y="0" skinName="GameEndeSkin" id="GameEndeSkin" visible="false"/>
+</e:Skin>

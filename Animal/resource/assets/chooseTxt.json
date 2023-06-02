@@ -1,0 +1,45 @@
+﻿{
+"mc": {
+	"chooseTxt": {
+		"frameRate":24,
+		"labels": [
+		],
+		"frames": [
+			{"res":"chooseTxt0001","x":0,"y":0,"duration":3},
+			{"res":"chooseTxt0000","x":0,"y":0,"duration":3},
+			{"res":"chooseTxt0002","x":0,"y":0,"duration":3},
+			{"res":"chooseTxt0003","x":0,"y":0,"duration":3},
+			{"res":"chooseTxt0004","x":0,"y":0,"duration":3},
+			{"res":"chooseTxt0005","x":0,"y":0,"duration":3},
+			{"res":"chooseTxt0006","x":0,"y":0,"duration":3},
+			{"res":"chooseTxt0007","x":0,"y":0,"duration":3},
+			{"res":"chooseTxt0008","x":0,"y":0,"duration":3},
+			{"res":"chooseTxt0009","x":0,"y":0,"duration":3},
+			{"res":"chooseTxt0010","x":0,"y":0,"duration":3},
+			{"res":"chooseTxt0011","x":0,"y":0,"duration":3},
+			{"res":"chooseTxt0012","x":0,"y":0,"duration":3},
+			{"res":"chooseTxt0013","x":0,"y":0,"duration":3},
+			{"res":"chooseTxt0014","x":0,"y":0,"duration":5},
+			{"res":"chooseTxt0015","x":0,"y":0,"duration":3}
+		]
+	}
+},
+"res": {
+	"chooseTxt0000":{"x":0,"y":0,"w":260,"h":80},
+	"chooseTxt0001":{"x":0,"y":80,"w":260,"h":80},
+	"chooseTxt0002":{"x":0,"y":160,"w":260,"h":80},
+	"chooseTxt0003":{"x":0,"y":240,"w":260,"h":80},
+	"chooseTxt0004":{"x":0,"y":320,"w":260,"h":80},
+	"chooseTxt0005":{"x":0,"y":400,"w":260,"h":80},
+	"chooseTxt0006":{"x":0,"y":480,"w":260,"h":80},
+	"chooseTxt0007":{"x":0,"y":560,"w":260,"h":80},
+	"chooseTxt0008":{"x":260,"y":0,"w":260,"h":80},
+	"chooseTxt0009":{"x":260,"y":80,"w":260,"h":80},
+	"chooseTxt0010":{"x":260,"y":160,"w":260,"h":80},
+	"chooseTxt0011":{"x":260,"y":240,"w":260,"h":80},
+	"chooseTxt0012":{"x":260,"y":320,"w":260,"h":80},
+	"chooseTxt0013":{"x":260,"y":400,"w":260,"h":80},
+	"chooseTxt0014":{"x":260,"y":480,"w":260,"h":80},
+	"chooseTxt0015":{"x":260,"y":560,"w":260,"h":80}
+}
+}

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="hpSkin" width="206" height="42" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="hpRed" source="hpRed_png" x="8" y="9" width="190"/>
+	<e:Image id="hpGreen" source="hpGreen_png" width="190" left="8" verticalCenter="0"/>
+</e:Skin>

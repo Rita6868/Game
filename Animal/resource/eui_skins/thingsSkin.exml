@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="thingsSkin" width="600" height="1064" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="gameBG_png" id="BG" horizontalCenter="0" verticalCenter="0" locked="true"/>
+	<e:Component x="13" y="262" skinName="hpSkin" id="ownHp" locked="true"/>
+	<e:Component id="otherHp" y="262" skinName="hpSkin" x="380" locked="true"/>
+	<e:Group id="otherFireworks" height="300" width="300" x="935" y="-10" scaleX="-1" anchorOffsetX="-300" locked="true"/>
+	<e:Group id="ownFireworks" width="300" y="-10" height="300" x="-35" locked="true"/>
+	<e:Image y="71" x="394" width="151" height="192" id="p2_pet" source="Role_0A_png"/>
+	<e:Image y="71" scaleX="-1" width="151" x="202" height="192" id="p1_pet" source="Role_1A_png"/>
+	<e:Label y="258" size="40" id="countDown" fontFamily="MiNiJianYiHei" horizontalCenter="0" width="70" verticalAlign="justify" textAlign="center" text=" " textColor="0xFFC233"/>
+	<e:Group id="Ready" width="150" height="220" x="220" y="510"/>
+	<e:Image id="Lucky" y="943" source="Lucky_png" x="247" locked="true"/>
+	<e:Component id="Lucky_pet" y="977" skinName="petSkin" x="267" locked="true"/>
+	<e:Image id="reBtn" source="btn_light_png" x="418" y="958"/>
+	<e:Component id="ObjSkin" y="334" horizontalCenter="0" skinName="ObjSkin" visible="false"/>
+	<e:Group id="GameEnd_Group" height="615" width="600" y="314" x="0" touchChildren="false" touchEnabled="false" visible="false">
+		<e:Image id="gameEnd" source="gameEnd_png" y="164" horizontalCenter="0" touchEnabled="false"/>
+		<e:Image id="WinLose" y="314" source="Win_png" horizontalCenter="0" touchEnabled="false"/>
+	</e:Group>
+	<e:Rect id="baffle" height="761" width="603" x="0" y="310" fillAlpha="0" locked="true"/>
+	<e:Group id="ownRIP" height="160" width="375" x="-66" y="98" locked="true" visible="false"/>
+	<e:Group id="otherRIP" width="375" y="98" height="160" x="661" scaleX="-1" locked="true" visible="false"/>
+	<e:Group id="otherEvent" height="300" width="375" x="285" y="0">
+		<e:Group id="otherAtk" height="269" width="250" horizontalCenter="0" y="29">
+		</e:Group>
+		<e:Group id="otherSmite" width="315" y="79" height="210" horizontalCenter="0"/>
+	</e:Group>
+	<e:Group id="ownEvent" width="375" y="0" height="300" x="-60">
+		<e:Group id="ownAtk" width="250" height="269" y="29" scaleX="-1" anchorOffsetX="0" horizontalCenter="0"/>
+		<e:Group id="ownSmite" width="315" y="79" scaleX="-1" anchorOffsetX="0" height="210" horizontalCenter="0"/>
+	</e:Group>
+	<e:Label id="passTime" x="616" y="1028"/>
+</e:Skin>

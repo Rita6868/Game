@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="waitSkin" width="600" height="1064" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Component id="stickerSkin" y="732" skinName="stickerSkin" x="68"/>
+	<e:Label y="915" text="預計 5 秒" fontFamily="微軟正黑體" size="32" horizontalCenter="0.5" visible="false"/>
+	<e:Group id="pet_P1" width="237" y="387" height="300" x="30">
+		<e:Image id="wait_characterP1" width="237" y="0" height="300" x="237" scaleX="-1" source="Role_0_png"/>
+	</e:Group>
+	<e:Rect height="60" width="184" x="263" visible="false"/>
+	<e:Label text="準備對戰" y="168" horizontalCenter="0" visible="false"/>
+	<e:Group id="waitTxt_Group" height="135" width="500" y="106" x="50">
+		<e:Rect height="60" width="450" verticalCenter="0" horizontalCenter="0" fillAlpha="0.2" visible="false"/>
+		<e:Label text="等待配對中" fontFamily="微軟正黑體" y="0" size="42" x="3" visible="false"/>
+		<e:Label y="-10" size="52" text="等 待 配 對 中" fontFamily="Yu Gothic UI Semibold" horizontalCenter="0"/>
+		<e:Label id="wait_txt" size="42" text="預計 5 秒" fontFamily="Yu Gothic UI Semibold" y="93" horizontalCenter="0"/>
+	</e:Group>
+	<e:Group id="randomR" height="300" width="237" x="340" y="370"/>
+	<e:Group id="pet_P2" height="300" width="237" x="340" y="387" visible="false">
+		<e:Image id="wait_characterP2" source="Role_1_png" y="0" x="0" width="237" height="300"/>
+	</e:Group>
+</e:Skin>
